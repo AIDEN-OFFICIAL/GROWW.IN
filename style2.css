@@ -1,0 +1,39 @@
+.footer{
+    background-color:#f0f0f2;;
+    width: 100%;
+    color:  #44475b;
+    height: 475%;
+    padding-left: 25px;
+    background-color:#f0f0f2;;
+    margin-top: 100px;
+
+}
+.last
+{
+    padding-top: 4%;
+    padding-left: 25px;
+    margin-top: 100px;
+    position: relative;
+    display: flex;
+    color:  #44475b;
+    line-height: 1.7;
+}
+.grow img
+{
+margin-bottom:20px;
+}
+.product a {
+    color: #44475b;
+    text-decoration: none !important;
+}
+.product{
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+.growww a
+{
+    color: #44475b;
+    text-decoration: none !important;
+  margin-right:100px ;
+}
