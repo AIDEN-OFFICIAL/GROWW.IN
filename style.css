@@ -28,6 +28,8 @@ body {
     font-family:YourCustomFont, Arial, sans-serif;
     min-width: 320px;
     -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+
 }
 
 .container {
